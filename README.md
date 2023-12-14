@@ -4,7 +4,7 @@
 
 Doğal Dil İşleme bilgisayarlara insan dilini yorumlama, işleme ve anlama yeteneği veren bir makine öğrenmesi teknolojisidir.
 NLP Yöntem ve Uygulamaları
-1-Heuristics-Based NLP(Kural Tabanlı NLP):Bu NLP'nin ilk yaklaşımıdır, tanımlanmış kurallara dayanmaktadır. Kural tabanlı olduğu için alan bilgisi ve uzmanlık gerektirir. 
+1-Heuristics-Based NLP(Kural Tabanlı NLP):Bu NLP'nin ilk yaklaşımıdır, tanımlanmış kurallara dayanmaktadır. Kural tabanlı olduğu için alan bilgisi ve uzmanlık gerektirir. </br>
 2-Statistical Machine learning-based NLP(Makine Öğrenmesi Tabanlı NLP):Makine öğrenimi algoritmalarına dayanmaktadır, bu yaklaşımda veri kümeleri makine öğrenmesi algoritmaları ile eğitilerek model oluşturulur. Örnekler: Naive Bayes, Destek Vektör Makinesi (SVM) vb.
 3-Neural Network-based NLP(Derin Öğrenme Tabanlı NLP): Sinir ağı tabanlı öğrenmenin değerlendirilmesiyle birlikte gelen en son yaklaşımdır. İyi bir doğruluk oranı sağlar ancak daha çok veriye ihtiyaç vardır. Modeli eğitmek için yüksek hesaplama gücü gerekir. Örnekler: Tekrarlayan sinir ağları (RNN), Evrişimli sinir ağları (CNN) vb.
 
