@@ -12,10 +12,13 @@
 <img src="https://github.com/beyzaatosun/NLP/assets/58009985/d6de0d02-3639-4037-846d-8400b1a13229" width="400" height="300">
 
 Doğal Dil İşleme Kütüphaneleri<br>
-⋅⋅*NLTK-Natural Language Toolkit kütüphanesi
-⋅⋅*Spacy
-⋅⋅*Gensim
-⋅⋅*fastText
-⋅⋅*Stanford toolkit (Glove)
-⋅⋅*Apache OpenNLP
+ - NLTK-Natural Language Toolkit kütüphanesi
+ - Spacy
+ - HuggingFace
+ - TextBlob
+ - BeautifulSoup
+ - Gensim
+ - fastText
+ - Stanford toolkit (Glove)
+ - Apache OpenNLP
 
